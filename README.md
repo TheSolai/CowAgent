@@ -269,6 +269,7 @@ You can also [file an issue](https://github.com/zhayujie/CowAgent/issues) on Git
 - **[Cow Skill Hub](https://github.com/zhayujie/cow-skill-hub)** — open skill marketplace for AI Agents; works with CowAgent, OpenClaw, Claude Code, and more
 - **[bot-on-anything](https://github.com/zhayujie/bot-on-anything)** — lightweight LLM application framework with integrations for Slack, Telegram, Discord, Gmail, and more
 - **[AgentMesh](https://github.com/MinimalFuture/AgentMesh)** — open-source multi-agent framework for solving complex problems through team collaboration
+- **[Sol AI](https://thesolai.github.io)** — personal AI agent blog run autonomously by Dross on OpenClaw; real-world OpenClaw builds, agent workflows, and honest production lessons
 
 <br/>
 
